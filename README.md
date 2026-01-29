@@ -27,7 +27,7 @@
 # **🧱 Project Architecture**
 
 <p align="center">
-  <img src="images/arc.png" width="200">
+  <img src="images/arc.png" width="400">
 </p>
 
 # **🔑 Technology Stack**
@@ -320,3 +320,4 @@ python src/bot.py BTCUSDT GRID BUY 0.03 --price 43000
 
 - **The implementation highlights the ability to build advanced order execution systems while maintaining disciplined validation, logging, and error handling.  
   It also reflects responsible risk management by operating entirely within a controlled testnet environment.**
+
